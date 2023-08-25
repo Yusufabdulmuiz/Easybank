@@ -458,7 +458,7 @@ menu li a {
 }
 
 #features {
-  grid-template-columns: repeat(auto-fit, minmax(150px,200px));
+  grid-template-columns: repeat(4,1fr);
   gap: 20px;
 }
 
@@ -498,7 +498,7 @@ menu li a {
 
 #articles {
   display: grid;
-  grid-template-columns: repeat(auto-fit, 200px);
+  grid-template-columns: repeat(4,1fr);
   gap: 20px;
   padding: 0;
  
