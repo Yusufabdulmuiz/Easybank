@@ -300,7 +300,7 @@ main {
 }
 #footer ul li a {
   color: var(--light-grayish-blue);
-  font-size: 14px;
+  font-size: 10px;
 }
 
 #footer ul li a:hover,.article h4 a:hover{
@@ -471,7 +471,7 @@ menu li a {
 .feature h3 {
   text-align: left;
   padding: .8rem 0;
-  font-size: 9px;
+  font-size: .9px;
   
 }
 .feature p {
