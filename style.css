@@ -471,7 +471,7 @@ menu li a {
 .feature h3 {
   text-align: left;
   padding: .8rem 0;
-  font-size: .9px;
+  font-size: 10px;
   
 }
 .feature p {
@@ -533,7 +533,7 @@ menu li a {
     text-align: left;
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
-  padding-top: 2rem;
+  padding: 4rem;
  
   
 }
@@ -553,7 +553,7 @@ grid-template-columns: repeat(2,1fr);
   margin-bottom: 3rem;
 }
 #footer ul li a {
-  font-size: 9px
+  font-size: 6px
 }
 .copyright{
   padding: 0;
